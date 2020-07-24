@@ -1,0 +1,13 @@
+{
+  "name": "Determination/it490",
+  "type": "Project_Determination",
+  "authors": [
+    {
+      "name": "Determination-Team",
+      "email": "smc58@njit.edu"
+    }
+  ],
+  "require": {
+    "php-amqplib/php-amqplib": "^2.10"
+  }
+}
