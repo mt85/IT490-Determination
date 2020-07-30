@@ -1,0 +1,5 @@
+{
+	"ptype":"OPPO",
+	"pmodel":"F9",
+	"pcategory":"Android"
+}
